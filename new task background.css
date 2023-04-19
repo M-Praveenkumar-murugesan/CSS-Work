@@ -1,0 +1,38 @@
+body{
+background-image:url("peakpx.jpg");
+}
+#line{
+    color: aqua;
+}
+
+.submit{
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+}
+.input[type=text],input[type=psw]{
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+
+.form{
+    width: 40%;
+    background-image: url("pexels-pixabay-72594.jpg");
+    text-align: center;
+    margin: 100px auto;
+    justify-content: center;
+    padding: 10px 20px 30px;
+}
+
+.form input{
+    width:100%
+}
+.pk{
+    width:40%;
+}

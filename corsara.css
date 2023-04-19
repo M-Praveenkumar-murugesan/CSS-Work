@@ -1,0 +1,17 @@
+.cont{
+    outline: 2px solid black;
+    min-height: 90px;
+    outline-offset:2px; 
+}
+p{
+    border: 10px solid red;
+}
+.name{
+    outline: 3px solid blue;
+    min-height: 100px;
+    outline-offset: 3px;
+}
+.pk1{
+    background-color: yellow;
+    
+}
